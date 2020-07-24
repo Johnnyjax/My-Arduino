@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:09:38 pm On 01/10/2019
+
+Output: Arduino BOM Purchasing
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ArduinoV1.PrjPcb]
+   Generated File[Arduino BOM Purchasing-ArduinoV1.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:10:55 pm On 01/10/2019

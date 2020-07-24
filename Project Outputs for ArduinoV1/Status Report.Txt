@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:35:13 pm On 02/10/2019
+
+Output: Arduino Pick and Place
+Type  : Pick Place
+From  : Variant [FIXED 5V] of PCB Document [ArduinoV1Pcb.PcbDoc]
+   Generated File[Pick Place for ArduinoV1Pcb(FIXED 5V).txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:35:14 pm On 02/10/2019
